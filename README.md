@@ -14,7 +14,6 @@ EA4_Grupo10_IntegracionFinal/
 │
 ├── EA1_ModeloEstrella/              # Diseño del Modelo Estrella
 │   ├── documentacion/               # EA1_Grupo10_ModeloEstrella.pdf
-│   ├── diagramas/                   # Diagrama del modelo estrella
 │   └── scripts_sql/
 │       ├── modelo_estrella_DDL.sql  # CREATE TABLE para las 6 tablas del DW
 │       └── consultas_analiticas.sql # 5 consultas OLAP de ejemplo
@@ -40,9 +39,6 @@ EA4_Grupo10_IntegracionFinal/
 │   │   └── pruebas_calidad.py       # Script Python: 54 pruebas + reporte
 │   └── reportes/
 │       └── reporte_calidad.md       # Documentación completa
-│
-├── EA4_IntegracionFinal/
-│   └── documentacion/               # Portada + enlace repositorio
 │
 ├── .gitignore
 └── README.md                        # Este archivo
